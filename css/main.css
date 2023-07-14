@@ -49,7 +49,7 @@ body, h1, h2, p, ul, li {
     margin: 0;
   }
   
-
+/* navigation links */
   nav {
     background-color: #d66fb0;
     padding: 20px;
@@ -178,6 +178,7 @@ body, h1, h2, p, ul, li {
 
  }
 
+ /* added fade in animation to new products */
  .productgrid img{
     width: 100px;
     height: auto;
@@ -199,6 +200,7 @@ body, h1, h2, p, ul, li {
   font-size: 40px;
 }
 
+/* contact form information */
 .contact{
     font-size: 30px;
 }
@@ -225,6 +227,8 @@ body, h1, h2, p, ul, li {
     
 }
 
+
+/* centred images for products */
 .prodimage img{
   width: 300px;
   height: auto;
@@ -233,7 +237,6 @@ body, h1, h2, p, ul, li {
   position: relative;
   top: 50%;
   left: 30%;
-  /* transform: translate(-50%, -50%); */
 }
 
 .prodimage h2 {
@@ -244,10 +247,14 @@ body, h1, h2, p, ul, li {
   font-size: 50px;
   padding-bottom: 10px;
 }
+
+.skip-links{
+  padding-bottom: 10px;
+}
+
 footer {
     background-color: #333;
     color: #fff;
-    text-align: end;
-
+    text-align: center;
 }
   
