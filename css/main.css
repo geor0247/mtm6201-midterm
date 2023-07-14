@@ -216,11 +216,6 @@ body, h1, h2, p, ul, li {
     padding-bottom: 10px;
 }
 
-.option{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 .enter{
     border: 2px solid black;
     width: fit-content;
